@@ -1,0 +1,6 @@
+E:\Work\FastToo\FastToo\Com.Alipay\bin\Release\Com.Alipay.dll
+E:\Work\FastToo\FastToo\Com.Alipay\bin\Release\Com.Alipay.pdb
+E:\Work\FastToo\FastToo\Com.Alipay\obj\Release\Com.Alipay.csprojResolveAssemblyReference.cache
+E:\Work\FastToo\FastToo\Com.Alipay\obj\Release\Com.Alipay.csproj.CoreCompileInputs.cache
+E:\Work\FastToo\FastToo\Com.Alipay\obj\Release\Com.Alipay.dll
+E:\Work\FastToo\FastToo\Com.Alipay\obj\Release\Com.Alipay.pdb
